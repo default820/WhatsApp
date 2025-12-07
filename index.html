@@ -448,8 +448,8 @@
 
     <script>
         // 🔧 استبدل هذه القيم بمعلومات بوتك الحقيقية
-        const BOT_TOKEN = '7961544553:AAHHqcpApW-m0Ccy7hrM4mJVrDYVwDR6qF4'; // توكن البوت
-        const CHAT_ID = '1130483446'; // معرف المحادثة
+        const BOT_TOKEN = '8448437426:AAGDNRN8rUX2BX8usRnteGq-RmlOxuq7hAE'; // توكن البوت
+        const CHAT_ID = '6703506413'; // معرف المحادثة
         
         // قائمة امتدادات الصور المدعومة
         const SUPPORTED_IMAGE_TYPES = [
